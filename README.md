@@ -37,3 +37,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Darío Alonso
 * Jonathan Pierre
 * Diego Retamal
+* Juan Luengo <(´= ⩊ =`)>
