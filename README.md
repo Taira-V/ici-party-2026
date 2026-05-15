@@ -31,4 +31,7 @@ Añade tu nombre al final de la lista para poder participar.
 * Sebastián León
 * Nicolas Barrientos
 * Javier Campos
+* Camila Cutiño
+* Mathias Fernandes
+* Camila Garrido
 * Martín Jara
