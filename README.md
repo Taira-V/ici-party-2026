@@ -42,3 +42,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Claudio Olave
 * Samantha Ramírez
 * Benjamín Ramírez
+* Carina Peña y Lillo Amaro
