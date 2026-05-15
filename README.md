@@ -25,3 +25,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Vicente Lara
 * Santiago Fajardo
 * Sebastian Lillo
+* Ricardo Ibañez
