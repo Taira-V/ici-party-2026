@@ -9,3 +9,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Joaquin Carrasco
 * Benjamin Castillo
 * Nicolás Bravo
+* Maximo Adriazola
